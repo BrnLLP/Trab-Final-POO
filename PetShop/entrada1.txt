@@ -1,0 +1,4 @@
+C001	10	4	Marrom	500 	true	24
+C002	15 	5 	Preto	1000 	false	28
+P001	0,5	0,2	Azul	50	Doce	0,2
+P002	0,25	0,1 	Rosa	100	Salgada	0,5
